@@ -1,0 +1,16 @@
+[
+    {
+        "name": "午饭",
+        "id": 1001,
+        "tag": "a",
+        "data": "乡村基 KFC 米线 小面 抄手",
+        "isFavorite": true
+    },
+    {
+        "name": "运动",
+        "id": 1002,
+        "tag": "b",
+        "data": "篮球 足球 乒乓 跑步",
+        "isFavorite": false
+    }
+]
